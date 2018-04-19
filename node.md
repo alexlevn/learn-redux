@@ -12,3 +12,7 @@ Some notes for newbie:
 
 With arrow func:
 hobbies: state.hobbies.filter((hobby)=>{hobby.id !== action.id})
+
+- npm install -save-dev redux-thunk@2.0.1
+=> middleware.
+for fetchtLocation(...)
